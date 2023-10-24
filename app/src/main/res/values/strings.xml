@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+    <string name="pemain_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="list_pemain">
+        <item>Jose Alvaredo</item>
+        <item>Kyle Anderson</item>
+        <item>Giannis</item>
+        <item>Thanasis</item>
+        <item>Marjon Beauchamp</item>
+        <item>Precious Achiuwa</item>
+        <item>Steven Adams</item>
+        <item>Bam Adebayo</item>
+        <item>Ochai Agbaji</item>
+        <item>Nickeil Alexander</item>
+
+    </string-array>
+
+    <string-array name="deskripsi_pemain">
+        <item>Pemain Jose Alveredo dengan tinggi 179cm</item>
+        <item>Pemain Kyle Anderson dengan tinggi 185cm</item>
+        <item>Pemain Giannis dengan tinggi 181cm</item>
+        <item>Pemain Thanasis dengan tinggi 169cm</item>
+        <item>Pemain Marjon Beauchamp dengan tinggi 172cm</item>
+        <item>Pemain Precious Achiuwa dengan tinggi 178cm</item>
+        <item>Pemain Steven Adams dengan tinggi 170cm</item>
+        <item>Pemain Bam Adebayo dengan tinggi 175cm</item>
+        <item>Pemain Ochao Agbaji dengan tinggi 183cm</item>
+        <item>Pemain Nickeil Alexander dengan tinggi 150cm</item>
+    </string-array>
+
+    <string-array name="photo_pemain">
+        <item>@drawable/josealvarado</item>
+        <item>@drawable/kyleanderson</item>
+        <item>@drawable/gianis</item>
+        <item>@drawable/thanasis</item>
+        <item>@drawable/marjonbeauchamp</item>
+        <item>@drawable/preciousachiuwa</item>
+        <item>@drawable/stevenadam</item>
+        <item>@drawable/bamadeyo</item>
+        <item>@drawable/ochaiagbaji</item>
+        <item>@drawable/nickeilalexander</item>
+    </string-array>
+
+</resources>
